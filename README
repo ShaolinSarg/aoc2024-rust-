@@ -1,0 +1,8 @@
+# README
+
+## Getting the answers
+Run the main function from the 'answers' project
+
+```bash
+cargo run -p answers
+```
